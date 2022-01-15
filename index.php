@@ -91,6 +91,12 @@ https://templatemo.com/tm-545-finance-business
               <li class="nav-item">
                 <a class="nav-link" href="one-page.html">One Page</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="login.php">Login</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="register.php">Register</a>
+              </li>
             </ul>
           </div>
         </div>
